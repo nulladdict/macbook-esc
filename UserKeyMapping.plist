@@ -8,8 +8,6 @@
     <array>
         <string>/usr/bin/hidutil</string>
         <string>property</string>
-        <string>--matching</string>
-        <string>{"ProductID":0x027c}</string>
         <string>--set</string>
         <string>{"UserKeyMapping":[{"HIDKeyboardModifierMappingSrc":0x700000064,"HIDKeyboardModifierMappingDst":0x700000029}]}</string>
     </array>
