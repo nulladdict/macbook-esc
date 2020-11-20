@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Label</key>
-    <string>KeyRemapping</string>
+    <string>local.EscKeyMapping</string>
     <key>ProgramArguments</key>
     <array>
         <string>/usr/bin/hidutil</string>
